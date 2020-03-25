@@ -15,7 +15,7 @@ module.exports = {
             'ongs.whatsapp',
             'ongs.city',
             'ongs.uf'])
-        .limit(5).offset((page-1) *5);
+        .limit(6).offset((page-1) *6);
 
         response.header('X-Total-Count', count['count(*)']);
 
