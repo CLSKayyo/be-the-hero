@@ -6,13 +6,13 @@ Código fonte da Semana Omnistack 11.0, onde foram ensinadas as tecnologias Node
   - Criada a base para a criação da aplicação
   - Ensinados conceitos básicos sobre as tecnologias
   
- * Dia 2:
+* Dia 2:
   - Ensinados conceitos sobre Node.js
   - Pensados os fluxos da aplicação
   - Pensado e criado o banco de dados e as operações
   - Terminada a construção do backend em Node.js
   
- * Dia 3:
+* Dia 3:
   - Ensinados conceitos sobre React
   - Criada toda a estrutura do frontend
   - Feita a ligação do frontend com o backend criado no dia anterior
