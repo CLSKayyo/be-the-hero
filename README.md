@@ -1,4 +1,4 @@
-# semana-omnistack-11.0
+# Semana OmniStack 11.0
 
 Código fonte da Semana Omnistack 11.0, onde foram ensinadas as tecnologias Node.js, React e React Native, como um conjunto poderoso e enxuto para criação de sistemas Web e mobile utilizando majoritariamente JavaScript.
 
@@ -16,3 +16,8 @@ Código fonte da Semana Omnistack 11.0, onde foram ensinadas as tecnologias Node
   - Ensinados conceitos sobre React
   - Criada toda a estrutura do frontend
   - Feita a ligação do frontend com o backend criado no dia anterior
+
+* Dia 4:
+  - Ensinados conceitos sobre React Native
+  - Criada toda a estrutura do mobile com expo
+  - Feita a ligação do mobile com o backend criado no dia anterior
